@@ -194,9 +194,9 @@ document.addEventListener('DOMContentLoaded', () => {
             const pendidikan = document.getElementById('pendidikan').value;
             const programPilihan = document.getElementById('programPilihan').value;
 
-            const targetWhatsApp = "6281282674707"; // Phone number LPKS Arima Persada
+            const targetWhatsApp = "6282375128230"; // Phone number LPKS Arima Persada
 
-            const message = `Halo Admin LPKS Arima Persada, saya ingin mendaftar pelatihan ke Jepang.%0A%0A` +
+            const message = `Halo Sensei LPKS Arima Persada, saya ingin mendaftar pelatihan ke Jepang.%0A%0A` +
                 `*Detail Pendaftar:*%0A` +
                 `• *Nama Lengkap:* ${encodeURIComponent(nama)}%0A` +
                 `• *Nomor WA:* ${encodeURIComponent(phone)}%0A` +
